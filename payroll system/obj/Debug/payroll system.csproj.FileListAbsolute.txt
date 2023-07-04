@@ -1,0 +1,40 @@
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\payroll system.exe.config
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\payroll system.exe
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\payroll system.pdb
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\BouncyCastle.Crypto.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\Google.Protobuf.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Compression.LZ4.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Hash.xxHash.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\MySql.Data.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Buffers.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.IO.Pipelines.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Memory.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Numerics.Vectors.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\BouncyCastle.Crypto.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\Google.Protobuf.pdb
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\Google.Protobuf.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Compression.LZ4.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\K4os.Hash.xxHash.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\MySql.Data.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Buffers.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.IO.Pipelines.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Memory.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Numerics.Vectors.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Program Project\.NET\payroll system\payroll system\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.csproj.AssemblyReference.cache
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.csproj.SuggestedBindingRedirects.cache
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll_system.Form1.resources
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll_system.Properties.Resources.resources
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.csproj.GenerateResource.cache
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.csproj.CoreCompileInputs.cache
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.csproj.CopyComplete
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.exe
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll system.pdb
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll_system.Form2.resources
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll_system.Settings_componets.resources
+D:\Program Project\.NET\payroll system\payroll system\obj\Debug\payroll_system.Salary_Component.resources
